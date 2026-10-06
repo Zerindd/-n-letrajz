@@ -1,0 +1,21 @@
+#cuccok:hover img{
+    transition: 0.5s;
+    height: 11em;
+    width: 11em;
+    background-color: rgba(255,255,255, 0.5);
+}
+#main{ 
+    margin-top: 90px;
+    height: 85vh;
+    width: 100%;
+}
+#kep{
+    position: static;
+    bottom: 0;
+    transition: 0.5s;
+    height: 10em;
+    width: 10em;
+    border-radius: 1em;
+    margin-left: 2em;
+    margin-right: 2em;
+}

@@ -1,0 +1,29 @@
+body{
+    background-color: #e3cca3;
+}
+#main{
+    background-color: #263e71;
+    color: white;
+    align-content: center;
+    text-align: center;
+}
+#cim{
+    font-size: 6em;
+    line-height: 0em;
+}
+#cimalatti{
+    color: #d2c215;
+    font-size: 2em;
+    line-height: 0em;
+}
+#szoveg{
+    line-height: 2em;
+    font-size: 1.5em;
+}
+#maintable{
+    margin:0px auto;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
